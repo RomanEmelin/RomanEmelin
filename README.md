@@ -10,11 +10,11 @@
 
 ## My ecole 42 projects
 
-###minishell project, beautiful as shell
+### minishell project, beautiful as shell
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mwinter/minishell)](https://github.com/romanemelin/minishell)
 
-###miniRT, ray tracing for primitive shapes
+### miniRT, ray tracing for primitive shapes
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mwinter/miniRT)](https://github.com/romanemelin/miniRT)
 
-###Philosophers, multithreading and multiprocessing in C
+### Philosophers, multithreading and multiprocessing in C
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mwinter/Philosophers)](https://github.com/romanemelin/philosophers)
